@@ -93,11 +93,11 @@ function App() {
 
       <footer className="blog-footer">
         <p>
-          Blog template built for{" "}
-          <a href="https://twitter.com/mdo">@Hakeem</a>.
+     
+          <a href="">@Hakeem Balogun</a>.
         </p>
         <p>
-          <a href="#">Back to top</a>
+   
         </p>
       </footer>
     </>
